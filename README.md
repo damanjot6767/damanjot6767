@@ -2,14 +2,14 @@
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Brajkishor Tomar...
+    I'm Damanjot Singh...
 </h1>
 
 <!----------------------------------- About Section ------------------------------------>
 
 <h3 align="center">
-   <i> Aspiring Java Backend Developer</i>
-    <i> A headstrong and inquisitive, aspiring Back-End developer, highly skilled in engineering robust and scalable applications and web API designs using Java and SpringBoot. Effective remote collaborator with an immense passion for building good software, looking forward to a sparkling career as a Java Backend Developer.</i>
+   <i> Aspiring Full Stack Web Developer</i>
+    <i> A headstrong and inquisitive, aspiring full stack-web developer, highly skilled in engineering robust and scalable applications and web API designs using JavaScript and React. Effective remote collaborator with an immense passion for building good software, looking forward to a sparkling career as a Full Stack Developer.</i>
 </h3
   
 
@@ -73,8 +73,8 @@
  <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BKS2315&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="BKS2315" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKS2315&layout=compact&exclude_repo=masai-course/brajkishor_fw17_1073,PracticeDSA=Shell&border_radius=0&theme=dark" alt="BKS2315" height="139"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=damanjot6767&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="damanjot6767" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damanjot6767&layout=compact&exclude_repo=masai-course/damanjot_fw20_0509,PracticeDSA=Shell&border_radius=0&theme=dark" alt="damanjot6767" height="139"/>
 </p>
 <br>
   
@@ -82,7 +82,7 @@
   
  ## :trophy: Recent GitHub Activity
   <br/>
-   <a href="https://github.com/BKS2315"><img alt="bk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BKS2315&custom_title=BKS2315's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/damanjot6767"><img alt="bk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=damanjot6767&custom_title=damanjot6767's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -98,13 +98,13 @@
 <p>
 
 <a href="https://github.com/vinaykumar2n/succinct-wrench-1095">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinaykumar2n&repo=succinct-wrench-1095&locale=en&border_radius=0&theme=dark" alt="BKS2315" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinaykumar2n&repo=succinct-wrench-1095&locale=en&border_radius=0&theme=dark" alt="damanjot6767" />
     </a>
 
 
    
    <a href="https://github.com/KaustubhBadve/Beutybebo-Cloned">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhBadve&repo=Beutybebo-Cloned&locale=en&border_radius=0&theme=dark" alt="BKS2315" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhBadve&repo=Beutybebo-Cloned&locale=en&border_radius=0&theme=dark" alt="damanjot6767" />
     </a>
    
 </p>
@@ -116,7 +116,7 @@
 
 
 <!--
-**BKS2315/BKS2315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**damanjot6767/damanjot6767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

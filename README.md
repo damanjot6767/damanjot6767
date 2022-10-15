@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
+![MasterHead](https://dribbble.com/shots/4871258-Web-development)
 <h1 align="center">Hi 👋, I'm Damanjot Singh</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Punjab,India</h3>
 

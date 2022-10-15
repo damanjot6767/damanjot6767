@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif width=100%)
+![MasterHead](https://www.timefortheweb.com/blog/wp-content/uploads/2017/10/timefortheweb-Blog-Image.gif)
 <h1 align="center">Hi 👋, I'm Damanjot Singh</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Punjab,India</h3>
 

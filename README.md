@@ -1,4 +1,4 @@
-![MasterHead](https://www.timefortheweb.com/blog/wp-content/uploads/2017/10/timefortheweb-Blog-Image.gif)
+![MasterHead](https://anarsolutions.com/wp-content/uploads/2014/07/gif.gif)
 <h1 align="center">Hi 👋, I'm Damanjot Singh</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Punjab,India</h3>
 

@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damanjot6767&label=Profile%20views&color=0e75b6&style=flat" alt="damanjot" /> </p>
 
-<p align="left"> <a href="https://twitter.com/afzal_maalik" target="blank"><img src="https://img.shields.io/twitter/follow/afzal_maalik?logo=twitter&style=for-the-badge" alt="afzal_maalik" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/damanjot-singh-986330198/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="https://www.linkedin.com/in/damanjot-singh-986330198/" height="30" width="40" /></a> </p>
 
 - 🔭 I’m currently working on clone **ZoomCar.com**
 

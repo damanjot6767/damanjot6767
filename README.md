@@ -1,4 +1,4 @@
-![MasterHead](https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif)
+![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Damanjot Singh</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Punjab,India</h3>
 

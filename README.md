@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/1124806/screenshots/4871258/ezgif.com-optimize.gif)
+![MasterHead](https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif)
 <h1 align="center">Hi 👋, I'm Damanjot Singh</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Punjab,India</h3>
 

@@ -1,131 +1,34 @@
-<!----------------------------------- Heading Section ------------------------------------>
-<h1 align="center">
-    Hi
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Damanjot Singh...
-</h1>
+![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
+<h1 align="center">Hi 👋, I'm Afzal Qureshi</h1>
+<h3 align="center">A passionate Full Stack Web Developer from Mumbai,India</h3>
 
-<!----------------------------------- About Section ------------------------------------>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maalikq&label=Profile%20views&color=0e75b6&style=flat" alt="maalikq" /> </p>
 
-<h3 align="center">
-   <i> Aspiring Full Stack Web Developer</i>
-    <i> A headstrong and inquisitive, aspiring full stack-web developer, highly skilled in engineering robust and scalable applications and web API designs using JavaScript and React. Effective remote collaborator with an immense passion for building good software, looking forward to a sparkling career as a Full Stack Developer.</i>
-</h3
-  
+<p align="left"> <a href="https://twitter.com/afzal_maalik" target="blank"><img src="https://img.shields.io/twitter/follow/afzal_maalik?logo=twitter&style=for-the-badge" alt="afzal_maalik" /></a> </p>
 
-<br>
-  
-<!----------------------------------- Tech Stack Section ------------------------------------>
+- 🔭 I’m currently working on clone **Stackover.com**
 
+- 🌱 I’m currently learning **MERN Stack**
 
-### <h2><i>👨🏻‍💻 Tech Stack & Languages</i></h2>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
- <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+- 💬 Ask me about **HTML,CSS,JavaScript,ChakraUI,React Native**
 
+- 📫 How to reach me **damanjot6767@gmail.com**
 
-
-### <h2><i>🚀 Libraries & Frameworks</i></h2>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=852100&label=" alt=""/></a>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&color=00d09c&label=" alt="" /></a>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=000030&label=" alt=""/></a>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&color=400030&label=" alt=""/></a>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Servlets&color=700030&label=" alt=""/></a>
-
-
-### <h2><i>💻 Databases</i></h2>
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
- 
- 
- 
-<!----------------------------------- Social Media Links Section ------------------------------------>
-
-<h2><i>Let's Connect</i></h2>
-
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/brajkishor-singh-tomar-719941133/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/brajkishor-singh-tomar-719941133/" />
-    </a>
-    <a href="https://brajkishor-tomar-portfolio.netlify.app/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://brajkishor-tomar-portfolio.netlify.app/" />
-    </a>
-    <a title="b.ktomar98@gmail.com" href="mailto:b.ktomar98@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="b.ktomar98@gmail.com" />
-    </a>
-</p>
-<br>
-
- 
- 
- 
-
-<!----------------------------------- Star Section ------------------------------------>
-
- <h2><i>My GitHub Stats</i></h2>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=damanjot6767&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="damanjot6767" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damanjot6767&layout=compact&exclude_repo=masai-course/damanjot_fw20_0509,PracticeDSA=Shell&border_radius=0&theme=dark" alt="damanjot6767" height="139"/>
-</p>
-<br>
-  
- <!--------------------------------------------------------------------------------> 
-  
- ## :trophy: Recent GitHub Activity
-  <br/>
-   <a href="https://github.com/damanjot6767"><img alt="bk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=damanjot6767&custom_title=damanjot6767's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
-
-
-
-<!----------------------------------- Top Repository Section ------------------------------------>
-
-<h2><i>Top Repositories</i></h2>
-
-
-<p>
-
-<a href="https://github.com/vinaykumar2n/succinct-wrench-1095">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinaykumar2n&repo=succinct-wrench-1095&locale=en&border_radius=0&theme=dark" alt="damanjot6767" />
-    </a>
-
-
-   
-   <a href="https://github.com/KaustubhBadve/Beutybebo-Cloned">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhBadve&repo=Beutybebo-Cloned&locale=en&border_radius=0&theme=dark" alt="damanjot6767" />
-    </a>
-   
+<a href="https://twitter.com/afzal_maalik" target="blank"><img align="center" src="https://img.icons8.com/color/2x/twitter-circled--v4.png" alt="afzal_maalik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/damanjot-singh-986330198/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="https://www.linkedin.com/in/damanjot-singh-986330198/" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/u/afzal23" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-color-tal-revivo.png" alt="https://codesandbox.io/u/afzal23" height="30" width="40" /></a>
+<a href="https://www.instagram.com/we_are_successor_facts/" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/2x/instagram-new.png" alt="/we_are_successor_facts/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCnOdCvjWebQgrAHgWKmRtaw" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="https://www.youtube.com/channel/UCnOdCvjWebQgrAHgWKmRtaw" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damanjot6767&show_icons=true&locale=en&layout=compact" alt="damanjot" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damanjot6767&show_icons=true&locale=en" alt="damanjot" /></p>
 
-
-
-
-<!--
-**damanjot6767/damanjot6767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damanjot6767&" alt="damanjot" /></p>

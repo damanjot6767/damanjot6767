@@ -1,0 +1,118 @@
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+
+  html,body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 240 10% 3.9%;
+    --background1: 240 100% 99%;
+    --foreground1: 240 100% 99%;
+    --card: 217, 72%, 94%;
+    --card-foreground: 240 10% 3.9%;
+    --popover: 0 0% 96%;
+    --popover-foreground: 240 10% 3.9%;
+    --primary: 246, 100%, 62%;
+    --primary-foreground: 246, 100%, 62%;
+    --secondary: 240 4.8% 95.9%;
+    --secondary-foreground: 240 5.9% 10%;
+    --muted: 246, 100%, 96%;
+    --muted-foreground: 0 0% 50%;
+    --accent: 216 63% 97%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 245 100% 72%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 5.9% 75%;
+    --input: 240 5.9% 90%;
+    --ring: 246, 100%, 62%;
+    --radius: 0.5rem;
+    --blue1: 215 86% 55%;
+    --blue2: 245 87% 58%;
+    --blue3: 245 59% 41%;
+    --blue4: 245 87% 58%;
+    --pink1 : 331 97% 51%;
+    --violet1 : 278 46% 46%;
+    --dark-blue1: 242 100% 5%;
+    --dark-blue2: 240 55% 13%;
+    --light-blue1: 189 94% 43%
+  }
+
+  .dark {
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+    --accent: 240 3.7% 15.9%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 240 4.9% 83.9%;
+  }
+}
+
+
+  @layer base {
+    * {
+      @apply border-border;
+    }
+    body {
+      @apply bg-background text-foreground ;
+    }
+    
+  }
+
+  .gradient1 {
+    @apply bg-gradient-to-r from-[#B7B0FF] via-[#F5F8FF] to-[#B7B0FF]
+  }
+
+  .gradient2 {
+    @apply bg-gradient-to-r from-indigo-500 from-10% via-sky-500 via-30% to-emerald-500 to-90% 
+  }
+
+  .gradient3 {
+    @apply bg-gradient-to-r from-cyan-500 to-blue-500
+  }
+
+  .gradient4 {
+    @apply bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500
+  }
+  
+  .gradient5 {
+    @apply bg-gradient-to-r from-amber-500 to-pink-500
+  }
+
+  .gradient6 {
+    @apply bg-gradient-to-r from-amber-500 to-pink-500
+  }
+
+  .gradient7 {
+    @apply bg-gradient-to-r from-emerald-400 to-cyan-400
+  }
+
+  .gradient8 {
+    @apply bg-gradient-to-r from-blue1 to-blue2
+  }
+
+  .shadow1 {
+    @apply shadow-[0px_0px_30px_20px_#cbd5e0]
+  }
+
+  
+
+  

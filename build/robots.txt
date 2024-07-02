@@ -1,0 +1,12 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+
+  <Input label='name' id='name' required={true} register={register} errors={errors} className='h5' placeHolder='name'/>
+      {/* <Select id='select' value={value} label='dropdown' onChange={(res: any)=>setValue(res)} options={[{value:1,label:'hi'},{value:2,label:'hi12'},{value:3,label:'hi3'},{value:4,label:'hi4'}]}/>
+      <MultiSelect id='select' value={value} label='dropdown' onChange={(res: any)=>setValue(res)} options={[{value:1,label:'hi'},{value:2,label:'hi12'},{value:3,label:'hi3'},{value:4,label:'hi4'}]}/>
+     <SelectSearch id='select' value={value} label='dropdown' onChange={(res: any)=>setValue(res)} options={[{value:1,label:'hi'},{value:2,label:'hi12'},{value:3,label:'hi3'},{value:4,label:'hi4'}]}/> */}
+     <DatePicker label='select date' id='select' type='date' errors={errors} value={new Date()} onChange = {(res)=>setValue('select',res)}/>
+     {/* <DatePickerTime label='select date' id='select' type='date' errors={errors} value={new Date()} onChange = {(res)=>setValue('select',res)}/> */}
+    <DoughnutChart data={[20,100,300]} labels={['1','2','3']}/>

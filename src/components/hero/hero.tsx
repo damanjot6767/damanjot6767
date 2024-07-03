@@ -38,7 +38,9 @@ const Hero = () => {
 
   return (
     <div className={`relative w-full`}>
-       <motion.div className={`
+       <motion.div 
+       id="hero"
+       className={`
           shadow-lg
           gradient1
           flex

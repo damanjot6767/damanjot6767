@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaFacebookF, FaTwitter, FaInstagram, FaLinkedinIn } from "../../utils/icons"
+import { FaFacebookF, FaTwitter, FaInstagram, FaLinkedinIn, FaGithub } from "../../utils/icons"
 import { cn } from '../../lib/utils';
 
 interface SocialLinkModal {
@@ -44,6 +44,11 @@ export const SocialLinks = ({items, className}: SocialLinkProps) => {
                         />
                     ) : social_type === 'linkedin' ? (
                         <FaLinkedinIn
+                            className="h-[18px] text-border transition-all cursor-pointer hover:text-primary-foreground"
+                            onClick={() => window.open(social_link, '_blank')}
+                        />
+                    ) : social_type === 'github' ? (
+                        <FaGithub
                             className="h-[18px] text-border transition-all cursor-pointer hover:text-primary-foreground"
                             onClick={() => window.open(social_link, '_blank')}
                         />

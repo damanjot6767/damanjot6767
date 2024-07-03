@@ -30,7 +30,9 @@ const progressData = [
 const About = () => {
 
     return (
-        <div className='
+        <div 
+        id="about"
+        className='
         w-full
         realtive
         pt-20'>
@@ -93,7 +95,7 @@ const About = () => {
                         text-secondary-foreground'>
                             <TypographyP
                                 title='Strong in design and integration with intuitive problemsolving skills. Proficient in JavaScript, React, AWS, Nodejs, MongoDB, TypeScript ,. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start a career as a fill-stack web developer with a reputed firm driven by technology.'
-                                className='text-xl font-[250]' />
+                                className='lg:text-xl text-lg font-[350]' />
                         </div>
 
                     </div>

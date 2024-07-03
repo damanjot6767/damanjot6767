@@ -53,11 +53,6 @@ const ContactComponent = () => {
   const [loading, setLoading] = useState(false)
 
   const dispatch = useAppDispatch()
-  const { devroninsDetails, error, devroninsDetailsLoading } = useTypedSelector((state) => state.Devronins);
-
-  useEffect(() => {
-    dispatch(getDevroninsDetails())
-  }, [])
 
   const {
     register,
@@ -87,7 +82,9 @@ const ContactComponent = () => {
   }
 
   return (
-    <div className='w-full h-full md:pb-20 pb-10'>
+    <div 
+    id="contact"
+    className='w-full h-full md:pb-20 pb-10'>
 
       {/* Contact form section */}
       <div className='

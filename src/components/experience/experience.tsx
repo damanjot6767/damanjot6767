@@ -14,10 +14,11 @@ const Experience = () => {
   }]
 
   return (
-    <div className='
+    <div 
+    id="experience"
+    className='
         w-full
         realtive
-        pt-20
         bg-background1'>
       {/* Experience Main section */}
       <div className='
@@ -29,7 +30,8 @@ const Experience = () => {
         h-auto
         lg:px-20 
         px-5
-        py-20
+        lg:py-20
+        py-10
         gap-20'>
         {/* Content Section */}
         <div className='

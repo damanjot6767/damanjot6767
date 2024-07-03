@@ -60,10 +60,13 @@ const technologies = [
 const Technology = () => {
 
   return (
-    <div className='w-full h-full'>
+    <div 
+    id='technology'
+    className='w-full h-full'>
 
       {/* contact main section */}
       <div className='
+      pt-20
       flex
       flex-col
       bg-secondary'>

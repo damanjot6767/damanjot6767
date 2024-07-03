@@ -8,49 +8,59 @@ const useNavbarRoutes = () =>{
     const location = useLocation();
     const navigate = useNavigate();
 
+    const scrollToSection = (id: string) => {
+        const element = document.getElementById(id);
+        if (element) {
+            const yOffset = -90; // Adjust this value according to your navbar height
+            const yCoordinate = element.getBoundingClientRect().top + window.scrollY + yOffset;
+            window.scrollTo({ top: yCoordinate, behavior: 'smooth' });
+        //   element.scrollIntoView({ behavior: 'smooth' });
+        }
+      };
+
     const routes = [
         {
-            id: '1',
-            navigate: () => navigate(RoutesName.Home),
+            id: 'home',
+            navigate: () => scrollToSection('hero'),
             icon: RxDashboard,
             active: RoutesName.Home===location.pathname,
             label: 'Home'
             
         },
         {
-            id: '2',
-            navigate: () => navigate(RoutesName.OurTeam),
+            id: 'about',
+            navigate: () => scrollToSection('about'),
             icon: MdOutlineAnalytics,
             active: RoutesName.OurTeam===location.pathname,
             label: 'About',
         },
         {
-            id: '3',
-            navigate: () => navigate(RoutesName.OurServices),
+            id: 'experience',
+            navigate: () => scrollToSection('experience'),
             icon: RxDashboard,
             active: RoutesName.Services===location.pathname,
             label: 'Projects'
         },
         {
-            id: '4',
-            navigate: () => navigate(RoutesName.OurPortfolio),
+            id: 'technology',
+            navigate: () => scrollToSection('technology'),
             icon: MdOutlineAnalytics,
             active: RoutesName.OurPortfolio===location.pathname,
-            label: 'Experience',
+            label: 'Technology',
         },
         {
-            id: '5',
-            navigate: () => navigate(RoutesName.OurPortfolio),
+            id: 'reviews',
+            navigate: () => scrollToSection('reviews'),
+            icon: MdOutlineAnalytics,
+            active: RoutesName.OurPortfolio===location.pathname,
+            label: 'Reviews',
+        },
+        {
+            id: 'contact',
+            navigate: () => scrollToSection('contact'),
             icon: MdOutlineAnalytics,
             active: RoutesName.OurPortfolio===location.pathname,
             label: 'Contact',
-        },
-        {
-            id: '6',
-            navigate: () => navigate(RoutesName.OurPortfolio),
-            icon: MdOutlineAnalytics,
-            active: RoutesName.OurPortfolio===location.pathname,
-            label: 'Resume',
         }
     ]
 

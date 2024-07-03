@@ -12,7 +12,7 @@ import { TypographyH2, TypographyH3, TypographyH4, TypographyP } from "../ui/Typ
 import { Avatar, AvatarFallback, AvatarImage } from "../ui/avatar"
 import { ClientReviewModal } from "../../reducers/client_review";
 
-export function CarouselDApiDemo({data}:{data: ClientReviewModal[] | null}) {
+export function CarouselDApiDemo({data}:{data: any[] | null}) {
   
   return (
     <Carousel className="w-full transparent ">

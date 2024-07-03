@@ -12,12 +12,28 @@ import { RoutesName } from "../../utils/constant";
 import { SocialLinks } from "../common/socialLinks";
 import { useTypedSelector } from "../../stateStore";
 
+const social_links = 
+[
+  {
+      "social_type": "linkedin",
+      "social_link": "https://www.linkedin.com/in/damanjot-singh-986330198/",
+      "id": "1"
+  },
+  {
+      "social_type": "github",
+      "social_link": "https://github.com/damanjot6767",
+      "id": "2"
+  },
+]
+
 
 const DesktopNavbar = () => {
   const navbarRoutes = useNavbarRoutes();
   const navigate = useNavigate()
 
   const { devroninsDetails, error, devroninsDetailsLoading } = useTypedSelector((state) => state.Devronins);
+
+  console.log("22", devroninsDetails)
 
   const textMotion = {
     rest: {
@@ -104,54 +120,6 @@ const DesktopNavbar = () => {
                       border-primary-foreground"
               variants={textMotion} />
 
-            {/* Drop down section */}
-
-            {/* <motion.div className={cn(`
-                    hidden
-                    absolute
-                    w-auto
-                    z-50
-                    top-[100%]
-                    left-0
-                    flex-col
-                    group-hover:flex`)}
-                    variants={dropDownMotion}>
-                     <div className={cn(`
-                     bg-background 
-                     shadow-lg 
-                     rounded-lg
-                     flex
-                     flex-col 
-                     gap-4 ${item?.dropdownItems?.length && "p-5"}`)}>
-                          {item?.dropdownItems?.map(({id, label, navigate})=>(
-                          
-                              <motion.div 
-                              key={id}
-                              className="
-                              flex
-                              items-center
-                              w-[150px]
-                              gap-2"
-                              initial="rest" 
-                              whileHover="hover" 
-                              animate="rest"
-                              onClick={navigate}
-                                >
-                                  <motion.div className="
-                                  borber-b
-                                  border-primary-foreground"
-                                  variants={textMotion1}/>
-                                  <div className="
-                                  flex
-                                  items-center
-                                  justify-center">
-                                    <TypographyH5 className="hover:text-primary-foreground" title={label}/>
-                                  </div>
-                                </motion.div>
-                            
-                          ))}
-                     </div>
-                    </motion.div> */}
           </motion.div>
         ))}
       </div>
@@ -162,9 +130,7 @@ const DesktopNavbar = () => {
           flex
           items-center
           justify-center">
-        {devroninsDetails?.social_links ?
-          <SocialLinks items={devroninsDetails?.social_links} className="border-none p-[6px]" />
-          : null}
+          <SocialLinks items={social_links} className="border-none p-[6px]" />
       </div>
 
       {/* Free Quote */}

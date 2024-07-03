@@ -7,22 +7,44 @@ import womenImage from "../../assets/images/woman.png"
 import { useAppDispatch, useTypedSelector } from '../../stateStore'
 import { getClientReviews } from '../../services'
 
+const client_reviews = [
+    {
+        "image_url": "https://demo.casethemes.net/itfirm/wp-content/uploads/2021/10/grid-testimonial-01-154x154.png",
+        "name": "Sachin Diwar",
+        "rating": "5",
+        "description": "“ITo helped the client achieve their goal of calling the attention of mobile network operators. The expert team was also able to develop an app with commendable UI/UX. The client appreciates their flexibility in terms.”",
+        "title": "CEO/ Founder",
+        "id": "1"
+    },
+    {
+        "1": "2",
+        "image_url": "https://demo.casethemes.net/itfirm/wp-content/uploads/2021/10/grid-testimonial-05-154x154.png",
+        "name": "VP of Network",
+        "rating": "5",
+        "description": "“Working with several word press themes and templates the last years, I only can say this is the best in every level. I use it for my company and the reviews that I have already are all excellent. Support is helping to fix my issues now.”",
+        "title": "CFO "
+    },
+    {
+        "image_url": "https://demo.casethemes.net/itfirm/wp-content/uploads/2021/11/h2-testimonial1-154x154.jpg",
+        "name": "Arnold Burner",
+        "description": "“ITo helped the client achieve their goal of calling the attention of mobile network operators. The expert team was also able to develop an app with commendable UI/UX. The client appreciates their flexibility in terms.”",
+        "title": "CEO & founder",
+        "rating": 5,
+        "id": "3"
+    }
+]
 
 const Reviews = () => {
-    const dispatch = useAppDispatch()
-    const { loading, error, client_reviews } = useTypedSelector((state) => state.ClientReview)
-
-
-    useEffect(() => {
-        dispatch(getClientReviews())
-    }, [])
 
     return (
-        <div className='
+        <div 
+        id="reviews"
+        className='
         w-full
         h-full
         relative
-        mb-20'>
+        mb-20
+        pt-20'>
 
             <div className='
             xl:w-[80%] 

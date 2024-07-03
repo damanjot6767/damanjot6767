@@ -7,13 +7,15 @@ import HeroImage  from "../../assets/images/hero.png";
 import { TweenMax } from "../../utils/gsap"
 import { useRef } from "react";
 import { HeroImageAnimation } from "./heroImageAnimation";
-import { RoutesName } from '../../utils/constant';
+import { useNavbarRoutes } from "../../hooks/useNavbarRoutes";
 
 
 
 const Hero = () => {
   const navigate = useNavigate()
   const containerRef = useRef<HTMLDivElement>(null);
+
+  const navbarRoutes = useNavbarRoutes();
 
   const handleMouseMove = (e: React.MouseEvent<HTMLDivElement, MouseEvent>) => {
     const $this = containerRef.current;
@@ -105,7 +107,7 @@ const Hero = () => {
                     duration-200
                     hover:text-white
                     hover:bg-black"
-                    onClick={()=>navigate(RoutesName.Contact)}>
+                    onClick={navbarRoutes[navbarRoutes.length-1].navigate}>
                         <TypographyH4 className="font-[500] text-md" title="Contact us for hire"/>
                     </button>
                 </motion.div>

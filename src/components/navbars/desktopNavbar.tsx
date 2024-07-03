@@ -31,9 +31,6 @@ const DesktopNavbar = () => {
   const navbarRoutes = useNavbarRoutes();
   const navigate = useNavigate()
 
-  const { devroninsDetails, error, devroninsDetailsLoading } = useTypedSelector((state) => state.Devronins);
-
-  console.log("22", devroninsDetails)
 
   const textMotion = {
     rest: {
